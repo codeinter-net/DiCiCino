@@ -1,0 +1,5 @@
+LCD display 4x20
+Matrix keyboard 4x4
+Power supply
+Power output module
+Control unit
